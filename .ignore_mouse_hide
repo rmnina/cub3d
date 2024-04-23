@@ -1,7 +1,0 @@
-{
-    ignore_mlx_mouse_hide
-    Memcheck:Leak
-    obj:*libmlx.dylib*
-    obj:*libX11.so*
-    obj:*libXcursor.so*
-}
