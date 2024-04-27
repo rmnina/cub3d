@@ -77,10 +77,10 @@ git clone https://github.com/rmnina/cub3d.git
 cd cub3d
 git clone https://github.com/42Paris/minilibx-linux.git
 make
-./cub3D --help
 ```
 
 ```bash
+./cub3D --help
                 =========================================
                 ███████╗██╗   ██╗██████╗ ██████╗ ██████╗  
                 ██╔════╝██║   ██║██╔══██╗╚════██╗██╔══██╗
