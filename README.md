@@ -78,7 +78,19 @@ cd cub3d
 git clone https://github.com/42Paris/minilibx-linux.git
 make
 ./cub3D --help
-**Cub3d program usage:
+```
+
+```bash
+                =========================================
+                ███████╗██╗   ██╗██████╗ ██████╗ ██████╗  
+                ██╔════╝██║   ██║██╔══██╗╚════██╗██╔══██╗
+                ██║     ██║   ██║██████╔╝ █████╔╝██║  ██║
+                ██║     ██║   ██║██╔══██╗ ╚═══██╗██║  ██║
+                ╚██████╗╚██████╔╝██████╔╝██████╔╝██████╔╝
+                 ╚═════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═════╝ 
+                =========================================
+
+Cub3d program usage:
   ./cub3D file_path.cub
 
 The file.cub should contain the following mandatory elements:
@@ -97,7 +109,7 @@ The map must fulfill the following specifications:
     • N, S, E, or W for the player’s start position and orientation.
   - The map must be closed/surrounded by walls.
   - The map content always has to be the last element of the file.
-see [-h] or [--help] for further informations**
+see [-h] or [--help] for further informations
 ```
 
 ### Resources
