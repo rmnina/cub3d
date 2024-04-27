@@ -17,7 +17,7 @@ The idea here is to **recover a 2D map** composed of :
 
 We also retrieve a **texture** for each north, south, east and west side of the walls, and the colors of the floor and ceiling.
 
-The maps have the **.cub extension**, and we've put plenty of examples in the src/maps/ folder (warning: some of these maps are invalid and were used to test our parsing!).
+The maps have the **.cub extension**, and we've put plenty of examples in the maps/ folder (warning: some of these maps are invalid and were used to test our parsing!).
 
 Now, the whole purpose of the project was to be able to go from that :
 
