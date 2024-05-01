@@ -119,3 +119,10 @@ I already quoted [this tutorial from Lode V.](https://lodev.org/cgtutor/raycasti
 I made my memo sheet thanks to [this video](https://youtu.be/NbSee-XM7WA?si=1wRkBGU-X9wbycq8), but [this one](https://youtu.be/gYRrGTC7GtA?si=7mt_Pb7H9faGO9tD) helped me too.
 
 And a bunch of our textures came from [there](https://opengameart.org/textures/all).
+
+### Bonus
+
+(cause I need to keep making this cat my main personality trait)
+![Screenshot from 2024-05-01 13-56-00](https://github.com/rmnina/cub3d/assets/118455014/777b99d9-a8a4-42e0-ba26-57098944116f)
+
+
